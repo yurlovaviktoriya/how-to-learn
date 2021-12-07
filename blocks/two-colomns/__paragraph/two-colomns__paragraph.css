@@ -1,0 +1,12 @@
+.two-colomns__paragraph {
+  margin-top: 0;
+  margin-bottom: 30px;
+  color: #000;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-colomns__paragraph:last-child {
+  margin-bottom: 0;
+}

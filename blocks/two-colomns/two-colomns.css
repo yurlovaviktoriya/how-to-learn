@@ -1,0 +1,7 @@
+.two-colomns {
+  width: 80%;
+  margin: auto;
+  text-align: top;
+  display: flex;
+  justify-content: space-between;
+}
